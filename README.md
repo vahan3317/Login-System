@@ -3,7 +3,7 @@ login system with php ,MVC &amp; PDO ,phpmailer
 
 If you want open project
 1.clone this project
-2.Create database and 2tables
+2.Create database and 2 tables
  2.1 database name is reg_system
  2.2
  
